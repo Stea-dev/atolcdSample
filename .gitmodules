@@ -1,3 +1,0 @@
-[submodule "libfoo"]
-    path = include/foo
-    url = https://github.com/atolcdngu/sample2/tree/master/transverse
