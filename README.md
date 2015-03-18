@@ -1,2 +1,2 @@
 # atolcdSample
-Version prod
+Version prod/recette
